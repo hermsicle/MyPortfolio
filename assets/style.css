@@ -1,16 +1,13 @@
-header {
-    height: 10vh;
-    background-color: whitesmoke;
+.navbar-light .navbar-brand {
+    color: white !important;
 }
 
-main {
-    height: 80vh;
-    background-color: teal;
+.nav-link {
+    color: white;
 }
 
-
-
-footer {
-    height: 10vh;
-    background-color: whitesmoke;
+.resume {
+    width: 300px;
+    height: 500px;
+    background-color: grey;
 }
